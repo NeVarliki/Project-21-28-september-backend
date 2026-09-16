@@ -1,0 +1,11 @@
+name;inventory_code;description;photo_url;status;category_id
+MacBook Pro 14;EQ-000101;M3 Pro, 18 GB, 512 GB;https://picsum.photos/seed/eq101/400;AVAILABLE;1
+MacBook Air 13;EQ-000102;M2, 16 GB, 256 GB;https://picsum.photos/seed/eq102/400;ISSUED;1
+ThinkPad T14;EQ-000103;i7, 16 GB, 512 GB, Linux;https://picsum.photos/seed/eq103/400;AVAILABLE;1
+Epson EB-X51;EQ-000201;XGA, 3800 лм, HDMI;https://picsum.photos/seed/eq201/400;AVAILABLE;2
+Xiaomi Mi Smart Projector 2;EQ-000202;Full HD, Android TV;https://picsum.photos/seed/eq202/400;ISSUED;2
+Sony A6400;EQ-000301;Kit 16-50, 2 батареи;https://picsum.photos/seed/eq301/400;AVAILABLE;3
+GoPro Hero 11;EQ-000302;Крепление на голову в комплекте;https://picsum.photos/seed/eq302/400;BROKEN;3
+Переходник USB-C - HDMI;EQ-000401;;https://picsum.photos/seed/eq401/400;AVAILABLE;4
+Переходник USB-C - HDMI;EQ-000402;;https://picsum.photos/seed/eq402/400;AVAILABLE;4
+Кликер Logitech R500;EQ-000403;;https://picsum.photos/seed/eq403/400;AVAILABLE;4

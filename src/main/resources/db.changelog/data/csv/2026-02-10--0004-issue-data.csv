@@ -1,0 +1,4 @@
+issue_date;return_date;returned_at;employee_id;equipment_id
+2026-02-02;2026-02-09;2026-02-08;1;1
+2026-02-05;2026-02-19;;1;2
+2026-02-06;2026-02-08;;2;5
