@@ -1,10 +1,12 @@
 spring:
-  datasource:
-    url: jdbc:h2:mem:storagedb
+  application:
+    name: storage-backend
 
-  h2:
-    console:
-      enabled: true
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/storage}
+    username: ${DB_USER:storage}
+    password: ${DB_PASSWORD:storage}
+    driver-class-name: org.postgresql.Driver
 
   jpa:
     generate-ddl: false
@@ -20,3 +22,6 @@ spring:
 
 issue:
   max-days: 14
+
+server:
+  port: 8080
